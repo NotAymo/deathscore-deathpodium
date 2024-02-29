@@ -1,0 +1,12 @@
+# This is an example, please replace
+
+Lifetime - DeathScore
+
+Example2: 20
+Aymo: 18
+Example1: 14
+
+
+--------- BOTS ---------
+
+Dyno: -4
