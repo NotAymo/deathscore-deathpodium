@@ -1,0 +1,7 @@
+# This is an example, please replace
+
+Week 2 - DeathScore
+
+Example2: 5
+Aymo: 4
+Example1: 1
